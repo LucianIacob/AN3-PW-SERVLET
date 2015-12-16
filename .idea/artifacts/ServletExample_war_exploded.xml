@@ -4,10 +4,10 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="ServletExample" />
+          <element id="module-output" name="AN3-PW-SERVLET" />
         </element>
       </element>
-      <element id="javaee-facet-resources" facet="ServletExample/web/Web" />
+      <element id="javaee-facet-resources" facet="AN3-PW-SERVLET/web/Web" />
     </root>
   </artifact>
 </component>
