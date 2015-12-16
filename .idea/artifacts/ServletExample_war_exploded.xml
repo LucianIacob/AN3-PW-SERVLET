@@ -7,7 +7,6 @@
           <element id="module-output" name="ServletExample" />
         </element>
       </element>
-      <element id="javaee-facet-resources" facet="ServletExample/web/Web2" />
       <element id="javaee-facet-resources" facet="ServletExample/web/Web" />
     </root>
   </artifact>
